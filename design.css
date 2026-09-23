@@ -1,0 +1,19 @@
+img{
+height: 100px;
+}
+body{
+     
+    background-color: #ca59c5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+iframe {
+    width: 800px;
+    height: 500px;
+    margin: 50px;
+    border: none;
+}
+a{
+    color: #f5f3f4;
+    font-size: 20px;
+}
