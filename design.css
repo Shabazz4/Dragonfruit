@@ -8,9 +8,9 @@ body{
     text-align: center;
 }
 iframe {
-    width: 800px;
-    height: 500px;
-    margin: 50px;
+    width: 960px;
+    height: 540px;
+    margin-top: 30px;
     border: none;
 }
 a{
