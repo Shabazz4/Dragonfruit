@@ -6,10 +6,26 @@
     <link rel="stylesheet" href="/design.css">
 </head>
 <body>
- 
+  <img src="/DraG0nfruit.png" alt="">
  <h1>DraG0nFruit</h1>
- <p></p>
- <img src="/DraG0nfruit.png" alt="">
+
+    <button onclick="openFullscreen()">Full Screen</button>
+    <script>
+    function openFullscreen() {
+        const iframe = document.getElementById("1");
+
+        if (!iframe) return;
+
+        if (iframe.requestFullscreen) {
+            iframe.requestFullscreen();
+        } else if (iframe.webkitRequestFullscreen) { /* Safari */
+            iframe.webkitRequestFullscreen();
+        } else if (iframe.msRequestFullscreen) { /* IE11 */
+            iframe.msRequestFullscreen();
+        }
+    }
+    </script>
+
  <div class="games">
     <a href="https://speedstars2.io/game/speed-stars/" target="0">speed-stars</a>
     <a href="https://ohiomint-enjoyment.vercel.app/basket-random/" target="0">Basket-random</a>
@@ -22,11 +38,23 @@
     <a href="https://wasm.rip/files/amongus/latest/" target="0">Among-us</a>
     <a href="https://ohiomint-enjoyment.vercel.app/tag/" target="0">Tag</a>
     <a href="https://truffled.lol/gamefile/adgac.html" target="0">Difficult game about climbing</a>
+    <a href="https://flappybird.io/" target="0">Flappy-Bird</a>
+    <a href="https://truffled.lol/games/eglar/1dot12dot2/index.html" target="0">Minecraft</a>
+    <a href="https://truffled.lol/games/wordle-unlimited/index.html" target="0">wordle-unlimited</a>
+    <a href="https://html5.gamedistribution.com/a55c9cc9c21e4fc683c8c6857f3d0c75/?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Ffire-and-water" target="0">Fire-and-water</a>
+    <a href="https://truffled.lol/games/Cuphead/index.html" target="0">Cuphead</a>
+    <a href="https://files.twoplayergames.org/files/games/g1/flip-duel-v1b/index.html" target="0">Flip Duel</a>
+    <a href="https://truffled.lol/games/htf/index.html" target="0">How-To-Fish</a>
+    <a href="https://artefacts.melonsandbox.com/MelonPlayground_Webgl/MelonPlayground_Webgl_SiteProdU63/47815/index.html" target="0">Melon Playground</a>
+    <a href="https://truffled.lol/games/JumboMario/index.html" target="0">JumboMario</a>
+    <a href="https://truffled.lol/games/fnaf/index.html" target="0">FNAF1</a>
+    
+
 
 
 
  </div>
- <iframe src="" name="0"></iframe>
+ <iframe src="" name="0" id="1" allowfullscreen=""></iframe>
    
 </body>
 </html>
