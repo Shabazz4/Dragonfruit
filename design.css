@@ -1,28 +1,38 @@
-img{
-height: 100px;
+img {
+    height: 100px;
 }
-body{
-     
+
+body {
     background-color: #ca59c5;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    text-align: center;
 }
+
 iframe {
     width: 960px;
     height: 540px;
     margin-top: 30px;
+    border-radius: 20px;
     border: none;
-     border-radius: 20px;
 }
-a{
+
+a {
     color: #f5f3f4;
     font-size: 20px;
 }
-.hi{
+
+.games {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: wrap;
+
 }
+<<<<<<< HEAD
 *{
    0wwwwwwwwwwwwwwwwwwalign-items: center;
+=======
+
+.hi {
+    width: calc(25.333% - 14px);
+    box-sizing: border-box;
+>>>>>>> df9bb0fa1bf3c14e815bf3ae45f7a0e64d86dacb
 }
