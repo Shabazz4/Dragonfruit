@@ -1,12 +1,15 @@
-img{
-height: 100px;
+img {
+    width: 100px;
+    height: 100px;
+    object-position: cover;
 }
-body{
-     
+
+body {
     background-color: #ca59c5;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+
 iframe {
     width: 960px;
     height: 540px;
@@ -14,7 +17,53 @@ iframe {
     border-radius: 20px;
     border: none;
 }
-a{
+
+.game-viewer {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+
+}
+
+.game-viewer[hidden] {
+    display: none;
+}
+
+.game-viewer iframe {
+    width: calc(100vw - 32px);
+    height: calc(100vh - 64px);
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 0;
+}
+
+a {
     color: #f5f3f4;
     font-size: 20px;
 }
+
+.games {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+
+.hi {
+    width: 160px;
+    box-sizing: border-box;
+}
+
+.hi h1 {
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 6px 0;
+}
+
+}
+>>>>>>> 22d71858929f1821d5ee8415c2df2325829582f7
