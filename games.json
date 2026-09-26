@@ -1,108 +1,8 @@
-[
-    {
-        "url":  "https://truffled.lol/games/20minutesbog/index.html",
-        "image":  "https://truffled.lol/png/games/20mtd.webp",
-        "name":  "20minutestilldawn"
-    },
-    {
-        "url":  "https://wasm.rip/files/amongus/latest/",
-        "image":  "https://truffled.lol/png/games/among.webp",
-        "name":  "Among-us"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/angry-birds/",
-        "image":  "https://truffled.lol/png/games/angry.webp",
-        "name":  "angry-birds"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/angry-birds-epic/",
-        "image":  "https://truffled.lol/png/games/epic.webp",
-        "name":  "angry-birds-epic"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/bad-piggies/",
-        "image":  "https://truffled.lol/png/games/badp.webp",
-        "name":  "bad-piggies"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/basket-random/",
-        "image":  "https://truffled.lol/png/games/basket.webp",
-        "name":  "Basket-random"
-    },
-    {
-        "url":  "https://lite.3kh0.net/projects/chrome-dino/",
-        "image":  "https://truffled.lol/png/games/dino.webp",
-        "name":  "chrome-dino"
-    },
-    {
-        "url":  "https://truffled.lol/games/Cuphead/index.html",
-        "image":  "https://truffled.lol/png/games/cup.webp",
-        "name":  "Cuphead"
-    },
-    {
-        "url":  "https://truffled.lol/gamefile/adgac.html",
-        "image":  "https://truffled.lol/png/games/adgac.webp",
-        "name":  "Difficult game about climbing"
-    },
-    {
-        "url":  "https://html5.gamedistribution.com/a55c9cc9c21e4fc683c8c6857f3d0c75/?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Ffire-and-water",
-        "image":  "https://truffled.lol/png/games/fire1.webp",
-        "name":  "Fire-and-water"
-    },
-    {
-        "url":  "https://truffled.lol/games/watergirl-2/index.html",
-        "image":  "https://truffled.lol/png/games/fire2.webp",
-        "name":  "Fire-and-water2"
-    },
-    {
-        "url":  "https://truffled.lol/games/watergirl-3/play/",
-        "image":  "https://truffled.lol/png/games/fire3.webp",
-        "name":  "Fire-and-water3"
-    },
-    {
-        "url":  "https://truffled.lol/games/watergirl-4/index.html",
-        "image":  "https://truffled.lol/png/games/fire4.webp",
-        "name":  "Fire-and-water4"
-    },
-    {
-        "url":  "https://flappybird.io/",
-        "image":  "https://truffled.lol/png/games/flapp.webp",
-        "name":  "Flappy-Bird"
-    },
+﻿[
     {
         "url":  "https://files.twoplayergames.org/files/games/g1/flip-duel-v1b/index.html",
         "image":  "https://img.gamedistribution.com/d48120b598174ba48e3d35e2733fa575-512x384.jpg",
         "name":  "Flip Duel"
-    },
-    {
-        "url":  "https://truffled.lol/games/fnaf/index.html",
-        "image":  "https://truffled.lol/png/games/splash.webp",
-        "name":  "FNAF1"
-    },
-    {
-        "url":  "https://truffled.lol/games/2/index.html",
-        "image":  "https://truffled.lol/png/games/fnaf2.webp",
-        "name":  "FNAF2"
-    },
-    {
-        "url":  "https://truffled.lol/games/3/index.html",
-        "image":  "https://truffled.lol/png/games/3f.webp",
-        "name":  "FNAF3"
-    },
-    {
-        "url":  "https://truffled.lol/games/fnaf4/index.html",
-        "image":  "https://truffled.lol/png/games/fnaf4.webp",
-        "name":  "FNAF4"
-    },
-    {
-        "url":  "https://truffled.lol/games/gangbeasts/",
-        "image":  "https://truffled.lol/png/games/gangbeats.webp",
-        "name":  "gang beasts"
-    },
-    {
-        "url":  "https://truffled.lol/games/geo/index.html",
-        "image":  "https://truffled.lol/png/games/gd.webp",
-        "name":  "Geo-Dash"
     },
     {
         "url":  "https://ohiomint-enjoyment.vercel.app/geometry-dash-meltdown/",
@@ -116,23 +16,8 @@
     },
     {
         "url":  "https://ohiomint-enjoyment.vercel.app/geometry-dash-world/",
-        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCTf6H9JETtnphr8xG61-3pUhZbFZlTh56sqmWooxJA&s",
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCTf6H9JETtnphr8xG61-3pUhZbFZlTh56sqmWooxJA\u0026s",
         "name":  "geometry-dash-world"
-    },
-    {
-        "url":  "https://truffled.lol/games/htf/index.html",
-        "image":  "https://truffled.lol/png/games/htf.webp",
-        "name":  "How-To-Fish"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz/",
-        "image":  "https://truffled.lol/png/games/quiz.webp",
-        "name":  "Impossible-quiz"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz-2/",
-        "image":  "https://truffled.lol/png/games/impos2.webp",
-        "name":  "Impossible-quiz2"
     },
     {
         "url":  "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz-book/",
@@ -150,84 +35,14 @@
         "name":  "Impossible-quiz-Book3"
     },
     {
-        "url":  "https://truffled.lol/games/JumboMario/index.html",
-        "image":  "https://truffled.lol/png/games/jumbo.webp",
-        "name":  "JumboMario"
-    },
-    {
-        "url":  "https://artefacts.melonsandbox.com/MelonPlayground_Webgl/MelonPlayground_Webgl_SiteProdU63/47815/index.html",
-        "image":  "https://truffled.lol/png/games/melon.webp",
-        "name":  "Melon Playground"
-    },
-    {
-        "url":  "https://truffled.lol/games/eglar/1dot12dot2/index.html",
-        "image":  "https://truffled.lol/png/games/mc.webp",
-        "name":  "Minecraft"
-    },
-    {
-        "url":  "https://truffled.lol/games/ppg/index.html",
-        "image":  "https://truffled.lol/png/games/peoplepg.webp",
-        "name":  "People-playground"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/plants-vs-zombies/",
-        "image":  "https://truffled.lol/png/games/pvz.webp",
-        "name":  "Plants-vs-Zombies"
-    },
-    {
         "url":  "https://ohiomint-enjoyment.vercel.app/red-ball-4/",
         "image":  "https://mint64.bugletcave.workers.dev/assets/images/games/red-ball-4.png",
         "name":  "Redball-4"
     },
     {
-        "url":  "https://ohiomint-enjoyment.vercel.app/retro-bowl/",
-        "image":  "https://truffled.lol/png/games/retro.webp",
-        "name":  "Retro-bowl"
-    },
-    {
         "url":  "https://ohiomint-enjoyment.vercel.app/rolling-sky/",
         "image":  "https://mint64.bugletcave.workers.dev/assets/images/games/rolling-sky.png",
         "name":  "Rolling-Sky"
-    },
-    {
-        "url":  "https://freedomgamingzone.github.io/run-3/",
-        "image":  "https://truffled.lol/png/games/run3.webp",
-        "name":  "run-3"
-    },
-    {
-        "url":  "https://truffled.lol/gamefile/shift.html",
-        "image":  "https://truffled.lol/png/games/shift.webp",
-        "name":  "Shift-at-midnight"
-    },
-    {
-        "url":  "https://truffled.lol/games/soccer-random/index.html",
-        "image":  "https://truffled.lol/png/games/soccerra.webp",
-        "name":  "Soccer-random"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/space-waves/",
-        "image":  "https://truffled.lol/png/games/space.webp",
-        "name":  "Space-waves"
-    },
-    {
-        "url":  "https://speedstars2.io/game/speed-stars/",
-        "image":  "https://truffled.lol/png/games/speed.webp",
-        "name":  "speed-stars"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/stickman-hook/",
-        "image":  "https://truffled.lol/png/games/stickman.webp",
-        "name":  "Stickman-hook"
-    },
-    {
-        "url":  "https://truffled.lol/gamefile/stickwar.html",
-        "image":  "https://truffled.lol/png/games/stickwar.webp",
-        "name":  "Stick-war"
-    },
-    {
-        "url":  "https://ohiomint-enjoyment.vercel.app/subway-surfers/",
-        "image":  "https://truffled.lol/png/games/sub.webp",
-        "name":  "subway-surfers"
     },
     {
         "url":  "https://ohiomint-enjoyment.vercel.app/tag/",
@@ -238,15 +53,5 @@
         "url":  "https://ohiomint-enjoyment.vercel.app/temple-run-2/",
         "image":  "https://mint64.bugletcave.workers.dev/assets/images/games/temple-run-2.png",
         "name":  "Temple-run-2"
-    },
-    {
-        "url":  "https://truffled.lol/games/volley-random/index.html",
-        "image":  "https://truffled.lol/games/volley-random/splash.png",
-        "name":  "VolleyBall-random"
-    },
-    {
-        "url":  "https://truffled.lol/games/wordle-unlimited/index.html",
-        "image":  "https://truffled.lol/png/games/world.webp",
-        "name":  "wordle-unlimited"
     }
 ]
