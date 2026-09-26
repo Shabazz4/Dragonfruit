@@ -1,4 +1,4 @@
-<html lang="en">
+﻿<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -6,15 +6,27 @@
     <link rel="stylesheet" href="/design.css">
 </head>
 <body>
- 
- <h1>DraG0nFruit</h1>
- <p></p>
  <img src="/DraG0nfruit.png" alt="">
- <div class="games">
-<div class="hi"><a target="0" href="https://truffled.lol/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvovjpx7wsChLGdcl58qGBaABW0QXCxBrM_inXyTC-Cg&s=10" alt=""></a><h1>hola</h1></div>
+ <h1>DraG0nFruit</h1>
+<div class="game-controls">
+    <input id="game-search" type="search" placeholder="Search games" aria-label="Search games">
+    <button id="local-games-button" type="button">DraG0nFruit</button>
+    <button id="truffled-button" type="button">Truffled</button>
+    <button id="cloudmoon-button" type="button">CloudMoon</button>
+</div>
 
- </div>
- <iframe src="" name="0"></iframe>
-   
+
+<div class="games">
+</div>
+
+
+  <div class="game-viewer" id="game-viewer" hidden>
+    <button id="close-game" type="button">Close game</button>
+    <p id="game-status" hidden></p>
+    <iframe src="about:blank" name="0" title="Game" allow="fullscreen; autoplay; gamepad; microphone; clipboard-write; clipboard-read" allowfullscreen></iframe>
+  </div>
+    <script src="/games.js" defer></script>
 </body>
 </html>
+
+
