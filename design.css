@@ -11,8 +11,8 @@ iframe {
     width: 960px;
     height: 540px;
     margin-top: 30px;
+    border-radius: 20px;
     border: none;
-     border-radius: 20px;
 }
 a{
     color: #f5f3f4;
