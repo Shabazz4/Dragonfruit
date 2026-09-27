@@ -8,26 +8,12 @@
 <body>
  <img src="/DraG0nfruit.png" alt="">
  <h1>DraG0nFruit</h1>
-    <button onclick="openFullscreen()">Full Screen</button>
-    <script>
-    function openFullscreen() {
-        const iframe = document.getElementById("1");
-
-        if (!iframe) return;
-
-        if (iframe.requestFullscreen) {
-            iframe.requestFullscreen();
-        } else if (iframe.webkitRequestFullscreen) { /* Safari */
-            iframe.webkitRequestFullscreen();
-        } else if (iframe.msRequestFullscreen) { /* IE11 */
-            iframe.msRequestFullscreen();
-        }
-    }
-    </script>
-
-    <div class="game-controls">
-        <input id="game-search" type="search" placeholder="Search games" aria-label="Search games">
-    </div>
+<div class="game-controls">
+    <input id="game-search" type="search" placeholder="Search games" aria-label="Search games">
+    <button id="local-games-button" type="button">DraG0nFruit</button>
+    <button id="truffled-button" type="button">Truffled</button>
+    <button id="cloudmoon-button" type="button">CloudMoon</button>
+</div>
 
 
 <div class="games">
